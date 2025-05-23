@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "2298e708bcd25f34",
+    "type": "split",
+    "children": [
+      {
+        "id": "d34eac393518bce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f9f1fdb3b3b74d1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "01 Intro to agents.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "01 Intro to agents"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4bb44e7bf6855be",
+    "type": "split",
+    "children": [
+      {
+        "id": "a97c39fe1a3bd334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e6e976a5bc46f26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de3ebb7003d057e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e60379096bc73cd9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fb52765d310f877c",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d0c33b25161c52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3db9855df357b948",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Intro to agents.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01 Intro to agents"
+            }
+          },
+          {
+            "id": "dbd51ec94608e47b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Intro to agents.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01 Intro to agents"
+            }
+          },
+          {
+            "id": "931bdf2454a9dc40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17d7986223fea9df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Intro to agents.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01 Intro to agents"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1f9f1fdb3b3b74d1",
+  "lastOpenFiles": [
+    "00 Contents.md",
+    "01 Intro to agents.canvas",
+    "02 Structured output.canvas",
+    "01 Intro to agents.md",
+    "Excalidraw/Drawing 2025-05-23 20.41.50.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-23 20.40.27.excalidraw.md",
+    "Excalidraw",
+    "1. Intro to agents.md",
+    "Intro to agents.md",
+    "Lessons"
+  ]
+}
