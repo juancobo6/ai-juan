@@ -1,5 +1,7 @@
 {
-  "accentColor": "#6382ca",
+  "accentColor": "#6b7a9e",
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "textFontFamily": "Geist",
+  "interfaceFontFamily": "Geist"
 }

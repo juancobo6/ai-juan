@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"3c630ca7cd4d4274","type":"text","text":"01 Introducción a agentes","x":-120,"y":-30,"width":265,"height":60},
+		{"id":"c6cb12a3311ae363","type":"text","text":"Agentes basados en LLM","x":345,"y":-230,"width":250,"height":60},
+		{"id":"d4c1440fbe8ace80","type":"text","text":"LLM como \"motor\"","x":795,"y":-330,"width":250,"height":60},
+		{"id":"fa0030f789d181af","type":"text","text":"Decisiones","x":1245,"y":-380,"width":250,"height":60},
+		{"id":"0c40aed62e4cb13d","type":"text","text":"Diferencia entre agente y LLM","x":795,"y":-130,"width":250,"height":60},
+		{"id":"530363f311c6cc6c","type":"text","text":"ChatGPT","x":1245,"y":-180,"width":250,"height":60},
+		{"id":"90cb0b7017132c27","type":"text","text":"GPT4o","x":1245,"y":-80,"width":250,"height":60},
+		{"id":"35d6d6cf8b8a802e","type":"text","text":"Estado","x":345,"y":70,"width":250,"height":60},
+		{"id":"0334b784c6a0594e","type":"text","text":"Almacenamiento de mensajes","x":795,"y":20,"width":250,"height":60},
+		{"id":"8921cdf8501692d3","type":"text","text":"Planificación","x":795,"y":120,"width":250,"height":60},
+		{"id":"87baf4ab7d97d7e3","type":"text","text":"Herramientas","x":345,"y":270,"width":250,"height":60},
+		{"id":"c023fefe1a389f9c","type":"text","text":"Búsqueda en internet","x":795,"y":220,"width":250,"height":60},
+		{"id":"8c26c03a8ff00d0a","type":"text","text":"Ejecución de código","x":795,"y":320,"width":250,"height":60},
+		{"id":"e70a3c0ad77d3632","type":"text","text":"Acciones","x":1245,"y":-280,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"62ed5419461667bc","fromNode":"3c630ca7cd4d4274","fromSide":"right","toNode":"c6cb12a3311ae363","toSide":"left"},
+		{"id":"67f0ed41179f8580","fromNode":"c6cb12a3311ae363","fromSide":"right","toNode":"d4c1440fbe8ace80","toSide":"left"},
+		{"id":"37fba2d81200259c","fromNode":"d4c1440fbe8ace80","fromSide":"right","toNode":"fa0030f789d181af","toSide":"left"},
+		{"id":"eec005988df725e7","fromNode":"c6cb12a3311ae363","fromSide":"right","toNode":"0c40aed62e4cb13d","toSide":"left"},
+		{"id":"5a258c4801223909","fromNode":"0c40aed62e4cb13d","fromSide":"right","toNode":"530363f311c6cc6c","toSide":"left"},
+		{"id":"80c53383ff1b91d4","fromNode":"0c40aed62e4cb13d","fromSide":"right","toNode":"90cb0b7017132c27","toSide":"left"},
+		{"id":"88d5748ba915896b","fromNode":"3c630ca7cd4d4274","fromSide":"right","toNode":"35d6d6cf8b8a802e","toSide":"left"},
+		{"id":"a4956e07180d8fff","fromNode":"35d6d6cf8b8a802e","fromSide":"right","toNode":"0334b784c6a0594e","toSide":"left"},
+		{"id":"3176be88df7a9c0e","fromNode":"35d6d6cf8b8a802e","fromSide":"right","toNode":"8921cdf8501692d3","toSide":"left"},
+		{"id":"32bcd0392de361ab","fromNode":"3c630ca7cd4d4274","fromSide":"right","toNode":"87baf4ab7d97d7e3","toSide":"left"},
+		{"id":"04ef2c2680b8d4b7","fromNode":"87baf4ab7d97d7e3","fromSide":"right","toNode":"c023fefe1a389f9c","toSide":"left"},
+		{"id":"816ae8197858acac","fromNode":"87baf4ab7d97d7e3","fromSide":"right","toNode":"8c26c03a8ff00d0a","toSide":"left"},
+		{"id":"fc1cfa9187d91ce6","fromNode":"d4c1440fbe8ace80","fromSide":"right","toNode":"e70a3c0ad77d3632","toSide":"left"}
+	]
+}

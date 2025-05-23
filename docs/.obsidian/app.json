@@ -1,5 +1,6 @@
 {
   "newFileLocation": "root",
   "newFileFolderPath": "/lessons",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
