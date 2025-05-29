@@ -1,0 +1,1 @@
+The model used is https://huggingface.co/spaces/NihalGazi/Text-To-Speech-Unlimited, with the voice "echo", no random seed, and the emotions "human, natural, fast"

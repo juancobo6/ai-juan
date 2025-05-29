@@ -1,0 +1,1 @@
+The Obsidian extension https://github.com/MSzturc/obsidian-advanced-slides is used to generate the slides from Markdown files
