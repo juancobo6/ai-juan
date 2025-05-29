@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "baseFontSize": 16,
   "textFontFamily": "Geist",
-  "interfaceFontFamily": "Geist"
+  "interfaceFontFamily": "Geist",
+  "cssTheme": ""
 }

@@ -13,18 +13,64 @@
             "state": {
               "type": "canvas",
               "state": {
+                "file": "00 Introducción al canal.canvas",
+                "viewState": {
+                  "x": 929.8611450195312,
+                  "y": 53.935150146484375,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "00 Introducción al canal"
+            }
+          },
+          {
+            "id": "61df2e260e69bab0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
                 "file": "01 Introducción a agentes.canvas",
                 "viewState": {
-                  "x": 1227.4139502940257,
-                  "y": -233.25368945350368,
-                  "zoom": -0.38580245380539024
+                  "x": 2813.196492031075,
+                  "y": 228.21683747741056,
+                  "zoom": 0.19290123400010817
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "01 Introducción a agentes"
             }
+          },
+          {
+            "id": "2d1842c6d915fccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Transcription.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Transcription"
+            }
+          },
+          {
+            "id": "2a474da2d480dd25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Transcription.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Transcription"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fb52765d310f877c",
@@ -159,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,10 +217,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f9f1fdb3b3b74d1",
+  "active": "2a474da2d480dd25",
   "lastOpenFiles": [
-    "00 Contenidos.md",
+    "01 Transcription.md",
     "01 Introducción a agentes.canvas",
+    "00 Introducción al canal.canvas",
+    "00 Transcription.md",
+    "00 Contenidos.md",
     "02 Structured output.canvas",
     "01 Intro to agents.md",
     "Excalidraw/Drawing 2025-05-23 20.41.50.excalidraw.md",
