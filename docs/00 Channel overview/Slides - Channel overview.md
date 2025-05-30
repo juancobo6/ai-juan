@@ -2,6 +2,6 @@
 # AI Juan
 #### Channel overview
 ---
-LLM Agents, topic by topic:
+LLM Agents on Python, topic by topic:
 - Theory video
 - Hands on video

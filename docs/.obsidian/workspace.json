@@ -4,51 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3573e6774e4eacf2",
+        "id": "e219265a9d056aa1",
         "type": "tabs",
         "children": [
           {
-            "id": "831546f504733d8f",
+            "id": "3a1ca343d661411b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "00 Channel overview/Slides - Channel overview.md",
-                "mode": "source",
-                "source": false
+                "file": "00 Channel overview/Audio - Channel overview.mp3"
               },
-              "icon": "lucide-file",
-              "title": "Slides - Channel overview"
-            }
-          },
-          {
-            "id": "9db2a9cdfca38bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Channel overview/Channel overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Channel overview"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4cadb7d893905060",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ae1baaf59baf4019",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
+              "icon": "lucide-file-audio",
+              "title": "Audio - Channel overview"
             }
           }
         ]
@@ -108,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fb52765d310f877c",
@@ -197,11 +164,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ae1baaf59baf4019",
+  "active": "3a1ca343d661411b",
   "lastOpenFiles": [
+    "00 Channel overview/Slides - Channel overview.md",
+    "00 Channel overview/Audio - Channel overview.mp3",
+    "01 Intro to agents/Intro to agents.md",
+    "01 Intro to agents/Slides - Intro to agents.md",
+    "Excalidraw/Drawing 2025-05-30 12.10.43.excalidraw.md",
+    "Excalidraw",
+    "canas.canvas",
+    "00 Channel overview/Channel overview.md",
     "export/Slides - Channel overview/public/channel-logo.jpg",
     "export/Slides - Channel overview/public",
     "export/Slides - Channel overview/plugin/chalkboard/img/sponge.png",
@@ -213,7 +189,6 @@
     "export/Slides - Channel overview/plugin/chalkboard/img/chalk-green.png",
     "export/Slides - Channel overview/plugin/chalkboard/img/chalk-purple.png",
     "export/Slides - Channel overview/plugin/chalkboard/img/chalk-blue.png",
-    "export/Slides - Channel overview/plugin/chalkboard/img/boardmarker-yellow.png",
     "export/Slides - Channel overview/plugin/chalkboard/style.css",
     "export/Slides - Channel overview/plugin/chalkboard/_style.css",
     "export/Slides - Channel overview/plugin/chalkboard/README.md",
@@ -223,17 +198,11 @@
     "export/Slides - Channel overview/plugin/chalkboard",
     "export/Slides - Channel overview/plugin/chart/README.md",
     "export/Slides - Channel overview/plugin/chart/plugin.js",
-    "export/Slides - Channel overview/plugin/chart/chart.min.js",
-    "export/Slides - Channel overview/plugin/chart",
     "export/Slides - Channel overview/plugin/customcontrols/README.md",
-    "00 Channel overview/Channel overview.md",
-    "00 Channel overview/Slides - Channel overview.md",
     "config/Text-To-Speech.md",
     "export/Slides - Channel overview/plugin/menu/CONTRIBUTING.md",
     "export/Slides - Channel overview/plugin/menu/README.md",
     "config/Slides.md",
-    "01 Intro to agents/Slides - Intro to agents.md",
-    "01 Intro to agents/Intro to agents.md",
     "01 Introducción a agentes.canvas",
     "00 Introducción al canal.canvas",
     "Contents.md",
